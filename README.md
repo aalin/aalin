@@ -2,5 +2,5 @@
 - 👀 I’m interested in graphics, music, web technologies
 - 🌱 I’m currently learning reactive programming
 - 💞️ I’m looking to collaborate on [mayu live](https://github.com/mayu-live/framework), which is a server side VDOM framework written in Ruby.
-- If you like what I'm trying to do, please consider [supporting me on Open Collective](https://opencollective.com/mayu-live).
+- If you like what I'm trying to do, please consider [supporting me on Open Collective](https://opencollective.com/mayu-live), or [buy me a coffee](https://ko-fi.com/aalin).
 - 📫 How to reach me, send an email to the email address I use for commits.
